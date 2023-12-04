@@ -3,10 +3,14 @@ entries:
   uptime-kuma-config:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-12-04T20:36:25.783824-03:00"
+    created: "2023-12-04T20:52:48.269843-03:00"
     description: Uptime Kuma Helm Chart
-    digest: b64c1c1b8957f46367f58f02f7d7609b075d937914c438b5ca38c35495b579f7
-    icon: https://joaonart.github.io/helm-charts/assets/icons/uptime-kuma.png
+    digest: 6ed5739f3ca3133cd91806b079d5e7fe343bccfe7f187b1a2b73a3770f00bac5
+    home: https://j-nart.com
+    icon: https://joaonart.github.io/helm-charts/assets/icons/uptime-kuma.svg
+    keywords:
+    - monitoring
+    - uptime
     maintainers:
     - email: joao.alves@j-nart.com
       name: j-nart.com
@@ -17,10 +21,14 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-12-04T20:34:43.536145-03:00"
+    created: "2023-12-04T20:52:13.892111-03:00"
     description: Uptime Kuma Helm Chart
-    digest: e08e913dc68e93982c24deee1a2b9e3e384a22189d197d6d59a0e503d68ac9eb
-    icon: https://joaonart.github.io/helm-charts/assets/icons/uptime-kuma.png
+    digest: c0e2daab9f1562a601f853bd972343da7403c48079d5cc1a07a806bd3ab34160
+    home: https://j-nart.com
+    icon: https://joaonart.github.io/helm-charts/assets/icons/uptime-kuma.svg
+    keywords:
+    - monitoring
+    - uptime
     maintainers:
     - email: joao.alves@j-nart.com
       name: j-nart.com
@@ -29,4 +37,4 @@ entries:
     urls:
     - https://joaonart.github.io/helm-charts/stable/uptime-kuma-config-1.0.0.tgz
     version: 1.0.0
-generated: "2023-12-04T20:36:25.78354-03:00"
+generated: "2023-12-04T20:52:48.26958-03:00"
