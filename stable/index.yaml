@@ -3,9 +3,9 @@ entries:
   uptime-kuma:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-12-04T21:45:20.18589-03:00"
+    created: "2023-12-04T21:55:11.173961-03:00"
     description: Uptime Kuma Helm Chart
-    digest: 40439fc8a7a4c0b758915c16ad0770993e0fe69b1c5f1e28e3254436e3851c24
+    digest: efdab5842741cb2c26eb07ebb42853b201f37195b77be7ed0234cb653daa65dd
     home: https://j-nart.com
     icon: https://joaonart.github.io/helm-charts/assets/icons/uptime-kuma.svg
     keywords:
@@ -22,9 +22,9 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-12-04T21:44:52.223848-03:00"
+    created: "2023-12-04T21:54:39.024565-03:00"
     description: Uptime Kuma Helm Chart
-    digest: c4c48f0a654b857ce898ad236bd08ab098749557336d3db16f5f1f1008276ef7
+    digest: ce6a435e43204c635bc0e30460f54a3374702db158834a1ade13e2505fefc066
     home: https://j-nart.com
     icon: https://joaonart.github.io/helm-charts/assets/icons/uptime-kuma.svg
     keywords:
@@ -39,4 +39,4 @@ entries:
     urls:
     - https://joaonart.github.io/helm-charts/stable/uptime-kuma-1.0.0.tgz
     version: 1.0.0
-generated: "2023-12-04T21:45:20.185658-03:00"
+generated: "2023-12-04T21:55:11.173752-03:00"
