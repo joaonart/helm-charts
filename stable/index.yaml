@@ -3,7 +3,7 @@ entries:
   my-app-config:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-12-10T13:49:12.44922-03:00"
+    created: "2023-12-10T15:22:53.600965-03:00"
     description: A Helm chart for Kubernetes
     digest: d9a60a2c935a2809ee458186eb6366194c8423b91c20a9d0e7b3780071742eb2
     home: https://j-nart.com
@@ -22,13 +22,11 @@ entries:
   uptime-kuma:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-12-04T22:16:07.16478-03:00"
-    description: Uptime Kuma Helm Chart
-    digest: 78ecbd91ff04e36468a7797f2687170c705862a352247c188ed5e166d59278af
+    created: "2023-12-10T15:14:31.769536-03:00"
+    description: A Helm chart for Kubernetes
+    digest: a4b1109cc91280ce0cefe96c99d8c4aaee2971b5f07117a3d82ee7b57295ea94
     home: https://j-nart.com
-    icon: https://joaonart.github.io/helm-charts/assets/icons/uptime-kuma.svg
     keywords:
-    - monitoring
     - uptime
     - jnart
     maintainers:
@@ -41,13 +39,11 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-12-04T22:15:27.858089-03:00"
-    description: Uptime Kuma Helm Chart
-    digest: 32132858e7a82632c4283ec927128afa1c83ce8e862b70e64c219efd36f114d3
+    created: "2023-12-10T15:13:43.115794-03:00"
+    description: A Helm chart for Kubernetes
+    digest: fd1f21cea83ce593f77fa0e42a2fa9ef5e06ef647468da146a6e888c5bc17a23
     home: https://j-nart.com
-    icon: https://joaonart.github.io/helm-charts/assets/icons/uptime-kuma.svg
     keywords:
-    - monitoring
     - uptime
     - jnart
     maintainers:
@@ -58,4 +54,4 @@ entries:
     urls:
     - https://joaonart.github.io/helm-charts/stable/uptime-kuma-1.0.0.tgz
     version: 1.0.0
-generated: "2023-12-10T13:49:12.448853-03:00"
+generated: "2023-12-10T15:22:53.600485-03:00"
