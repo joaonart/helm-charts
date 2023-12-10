@@ -3,9 +3,9 @@ entries:
   my-app-config:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-12-05T09:03:42.046868-03:00"
+    created: "2023-12-10T13:32:21.149217-03:00"
     description: A Helm chart for Kubernetes
-    digest: de96d932062d7034035fea6ffa102bb82611c8bd57d3e1074d3cd08097d16bea
+    digest: 6c6df3b0cf1589cdd5bc7316d2f96cf6a78eec1edab955bd826d84274cb0f45c
     home: https://j-nart.com
     keywords:
     - sample
@@ -58,4 +58,4 @@ entries:
     urls:
     - https://joaonart.github.io/helm-charts/stable/uptime-kuma-1.0.0.tgz
     version: 1.0.0
-generated: "2023-12-05T09:03:42.046504-03:00"
+generated: "2023-12-10T13:32:21.148849-03:00"
