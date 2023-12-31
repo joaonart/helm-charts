@@ -3,9 +3,9 @@ entries:
   mssql-2019:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-12-31T13:45:07.742937-03:00"
+    created: "2023-12-31T13:59:42.843814-03:00"
     description: A Helm chart for Kubernetes with MSSQL 2019
-    digest: a913c715b36470c03051d77a80f80db656ed073dfc215031cff740ba72426e02
+    digest: b1062037e2c77ff4df62febee86a720def6033b795d2b19a8cdd42c6007d6d76
     home: https://j-nart.com
     keywords:
     - mssql
@@ -74,4 +74,4 @@ entries:
     urls:
     - https://joaonart.github.io/helm-charts/stable/uptime-kuma-1.0.0.tgz
     version: 1.0.0
-generated: "2023-12-31T13:45:07.742399-03:00"
+generated: "2023-12-31T13:59:42.843421-03:00"
