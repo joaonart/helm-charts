@@ -1,0 +1,12 @@
+{{- $fullName := include "mssql-edge.fullname" . -}}
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: {{ $fullName }}
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: {{ .Values.persistentVolumeClaim.storage }}
+  storageClassName: {{ .Values.persistentVolumeClaim.storageClassName }}
