@@ -35,9 +35,9 @@ spec:
           imagePullPolicy: {{ .Values.image.pullPolicy }}
           env:
           - name: MSSQL_PID
-            value: {{ .Values.deployment.mssql_pid }}
+            value: "{{ .Values.deployment.mssql_pid }}"
           - name: ACCEPT_EULA
-            value: {{ .Values.deployment.accept_eula }}
+            value: "{{ .Values.deployment.accept_eula }}"
           - name: MSSQL_SA_PASSWORD
             valueFrom:
               secretKeyRef:
