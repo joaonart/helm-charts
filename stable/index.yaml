@@ -23,9 +23,9 @@ entries:
   mssql-edge:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-12-31T14:22:44.512917-03:00"
+    created: "2023-12-31T14:32:19.980319-03:00"
     description: A Helm chart for Kubernetes with MSSQL Azure Edge
-    digest: b09fd2d57af1b4cea931335e0a87e688acb16fbfe5be78e31c4c45a4030a4ab5
+    digest: 4a73d35a4ad951f417229908275785ddf4c59b3cb1953f95b43806a7628aeb53
     home: https://j-nart.com
     keywords:
     - mssql
@@ -96,4 +96,4 @@ entries:
     urls:
     - https://joaonart.github.io/helm-charts/stable/uptime-kuma-1.0.0.tgz
     version: 1.0.0
-generated: "2023-12-31T14:22:44.512541-03:00"
+generated: "2023-12-31T14:32:19.979773-03:00"

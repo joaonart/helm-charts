@@ -35,7 +35,7 @@ Common labels
 */}}
 {{- define "mssql-edge.labels" -}}
 helm.sh/chart: {{ include "mssql-edge.chart" . }}
-{{ include "mssql-2019.selectorLabels" . }}
+{{ include "mssql-edge.selectorLabels" . }}
 {{- if .Chart.AppVersion }}
 app.kubernetes.io/version: {{ .Chart.AppVersion | quote }}
 {{- end }}
